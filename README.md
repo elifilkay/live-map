@@ -13,7 +13,7 @@ An interactive map application that enables users to search for locations, track
   - Powered by **OpenStreetMap** and **Leaflet.js**.
   - Features smooth zoom and pan controls.
   - Displays location markers with informative popups.
-    ------------------------------
+  
  **Technologies Used:**
 - **HTML5** for the structure.
 - **CSS3** for styling.
